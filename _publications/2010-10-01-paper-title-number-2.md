@@ -2,7 +2,6 @@
 title: "**Yanying Wang**, Yana Jin*, Huan Lin, Wei Wan, Shiqiu Zhang. Valuing Mortality Risk Reductions in a Fast-developing Societies: A Meta-Analysis of Stated Preference Studies in China from 1998 to 2019"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2024-11-01
 venue: 'Social Science and Medicine'
