@@ -3,7 +3,7 @@ title: "Valuing Mortality Risk Reductions in a Fast-developing Societies: A Meta
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2024-11-01
 venue: 'Social Science and Medicine'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0277953624009250?via%3Dihub'
