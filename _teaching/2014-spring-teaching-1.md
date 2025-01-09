@@ -1,7 +1,5 @@
 ---
-
 # Teaching
-
 ## Instructor
 - **Fall 2024**: Benefit-Cost Analysis (Benefit Transfer module, Graduate course at PKU)
 
