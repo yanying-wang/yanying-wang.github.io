@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: page
+title: "Teaching"
+permalink: /teaching/
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# Teaching
 
-Heading 1
-======
+## Instructor
+- **Fall 2024**: Benefit-Cost Analysis (Benefit Transfer module, Graduate course at PKU)
 
-Heading 2
-======
 
-Heading 3
-======
+## Teaching Assistant
+
+- **Spring 2022**:China in Transition (Master course of Yenching Academy at PKU)
+- **Spring 2021**: Environmental Management (Undergraduate course at PKU)
+- **Fall 2020**: Environmental Economics (Graduate course at PKU)
+
