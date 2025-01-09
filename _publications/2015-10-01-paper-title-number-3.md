@@ -1,5 +1,5 @@
 ---
-title: "Robots, Firm Relocation, and Air Pollution: Unveiling the Unintended Spatial Spillover Effects of Emerging Technology
+title: "Robots, Firm Relocation, and Air Pollution: Unveiling the Unintended Spatial Spillover Effects of Emerging Technology"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
